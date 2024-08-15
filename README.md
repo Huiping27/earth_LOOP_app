@@ -47,7 +47,8 @@ To get started with this project, follow these instructions to set up both the b
 
 1. **Run the server:**
    ```bash
-  npm start
+  npm start 
+  ```
    
 
 ### Author
