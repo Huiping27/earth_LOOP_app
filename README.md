@@ -46,19 +46,10 @@ To get started with this project, follow these instructions to set up both the b
 ### Backend Setup
 
 1. **Run the server:**
-   ```bash
+   ```
   npm start 
   ```
- **Running Scripts
 
-To run various scripts for your project, use the `npm run` command followed by the script name. Here are some common scripts you might need:
-
-### Start the Server
-
-To start the server, use:
-
-```bash
-npm start
 
 
 ### Author
