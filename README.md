@@ -46,13 +46,10 @@ To get started with this project, follow these instructions to set up both the b
 ### Backend Setup
 
 1. **Run the server:**
-   ```
-  npm start 
-  ```
+   ```npm start 
+  
 
-
-
-### Author
+## Author
 -Huiping Li
 
 ### License
