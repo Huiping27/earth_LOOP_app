@@ -6,7 +6,7 @@
 
 # EarthLOOP 
 
-Welcome to the EarthLOOP application! This is n application designed to track carbon emissions. This project uses React for the frontend and Node.js/Express for the backend. Database is MongdoDB. We use REST API to connect to the third party to meausre the carbon emissions and mapping offset strategy.
+Welcome to the EarthLOOP application! This application is designed to track,measure and offset carbon emissions. This project uses React for the frontend and Node.js/Express for the backend. Database is MongdoDB. We use REST API to connect to the third party to meausre the carbon emissions and mapping offset strategy.
 
 ## Table of Contents
 
