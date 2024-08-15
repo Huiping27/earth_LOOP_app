@@ -49,8 +49,9 @@ To get started with this project, follow these instructions to set up both the b
 
 ```bash
 npm start
+```
 
-  
+------------------------------------------------------------------------------------------------------ 
 
 ## Author
 -Huiping Li
