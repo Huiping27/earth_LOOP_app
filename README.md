@@ -22,11 +22,13 @@ Welcome to the EarthLOOP application! This application is designed to track,meas
 
 ## Project Overview
 
-The EarthLOOP  helps users track and manage their carbon emissions related to flights. It allows users to:
+The EarthLOOP helps users track and manage their carbon emissions related to flights,food, household and more. So far it allows users to:
 - Add and view flight emission data.
 - Display a list of recorded flights and their emissions.
 -Add and view food emission data.(processing)
 -Display a dashboard for the food emission.(processing)
+
+...
 
 ## Features
 
