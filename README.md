@@ -36,11 +36,26 @@ The EarthLOOP helps users track and manage their carbon emissions related to fli
   - Built with React.
   - Allows users to add and view flight emissions.
   - Responsive design with a clean user interface.
+  - *public/**: Contains static assets.
+  - **src/**: Main source code for the Vue.js applicatioin
+   - **components/**: Reusable Vue Components.
+   - **views/**: Vue Components represeting differenting pages.
+   - **router**: Vue Router setup for navigation.
+   - **store/**: Vue store for state management.
+-**vue.config.js**: Vue CLI configuration.
+-**package.json**: Dependencies and scripts.
 
 - **Backend:**
   - Built with Node.js and Express.
   - Provides API endpoints to manage flight emissions and retrieve data.
   - Connects to a database to store and retrieve flight records.
+  -**controllers/**: Handles business logic and HTTP requests.
+  -**models/**: Defines the data stucture and schemas.
+  -**routes/**: Maps endpoints to controllers.
+  -**services/**: Configuration files for various aspects of the application.
+  -**middleware/**: OIncludes middleware functions for request processing.
+  -**app.js**: Main application setup.
+  -**server.js**: Initializes the server.
 
 ## Getting Started
 
